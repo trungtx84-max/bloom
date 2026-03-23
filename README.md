@@ -1,0 +1,2 @@
+# bloom
+Thang đo Bloom
